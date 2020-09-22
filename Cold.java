@@ -11,5 +11,6 @@ class Cold{
         }
     }
     System.out.println(counter);
+    sc.close();
  }   
 }
